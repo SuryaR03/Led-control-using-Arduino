@@ -67,8 +67,7 @@ Weighing Machines </br>
 
 ![Screenshot 2024-08-21 094112](https://github.com/user-attachments/assets/423ef746-4606-4529-9379-64a5459769b9)
 
-#
-#
+
 ## PROGRAM
 const int ledPin = 12;   
 const int buttonPin = 13;
